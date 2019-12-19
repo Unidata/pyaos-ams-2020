@@ -18,7 +18,7 @@ USER $NB_UID
 RUN conda install --quiet --yes \
     'ipywidgets=7.2*' \
     'conda-forge::nb_conda_kernels'  && \
-    wget https://raw.githubusercontent.com/julienchastang/pyaos-ams-2020/master/environment.yml && \
+    wget https://raw.githubusercontent.com/Unidata/pyaos-ams-2020/master/environment.yml && \
     conda env update --name pyaos-ams-2020 -f environment.yml && \
     rm environment.yml && \
     pip install --no-cache-dir nbgitpuller && \
