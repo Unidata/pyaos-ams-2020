@@ -2,19 +2,17 @@
  channels:
    - conda-forge
  dependencies:
-   - python=3
+   - python>=3.6,<3.8
    - numpy
    - matplotlib
    - cartopy
    - jupyter
    - metpy
    - siphon
-   - sphinx
-   - sphinx-gallery
-   - sphinx_rtd_theme
+   - pandas
    - xarray
+   - ipywidgets
+   - ffmpeg
    - boto3
    - botocore
-   - pint
-   - pip:
-       - sphinx-markdown-tables
+   - jupyterlab
