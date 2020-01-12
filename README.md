@@ -18,3 +18,9 @@ Where: Boston Convention and Exhibition Center, Room 205B
 | 15:10      | Images, points, maps, oh my - declarative plotting | Max           | 0:25   |
 | 15:35      | Where to go from here                              | All           | 0:10   |
 | 15:45      | End of workshop (deep breath)                      |               |        |
+
+## Acknowledgements
+
+For the JupyterHub server, we thank Andrea Zonca (San Diego Supercomputing Center), Jeremy Fischer (Indiana University), the NSF Jetstream (http://dx.doi.org/10.1145/2792745.2792774) team, and the NSF XSEDE Extended Collaborative Support Service (ECSS) program.
+
+
