@@ -1,5 +1,7 @@
 # Unidata AMS 2020 Student Conference PyAOS workshop
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Unidata/pyaos-ams-2020/master)
+
 This repository holds material and notebooks for use during the [Unidata AMS 2020 Student Conference PyAOS Workshop](https://ams.confex.com/ams/2020Annual/meetingapp.cgi/Session/54827), to be held January 12th, 2020, as part of the 19th Annual AMS Student Conference.
 
 ## Agenda
@@ -22,5 +24,3 @@ Where: Boston Convention and Exhibition Center, Room 205B
 ## Acknowledgements
 
 For the JupyterHub server, we thank Andrea Zonca (San Diego Supercomputing Center), Jeremy Fischer (Indiana University), the NSF Jetstream (http://dx.doi.org/10.1145/2792745.2792774) team, and the NSF XSEDE Extended Collaborative Support Service (ECSS) program.
-
-
