@@ -23,4 +23,4 @@ Where: Boston Convention and Exhibition Center, Room 205B
 
 ## Acknowledgements
 
-For the JupyterHub server, we thank Andrea Zonca (San Diego Supercomputing Center), Jeremy Fischer (Indiana University), the NSF Jetstream (http://dx.doi.org/10.1145/2792745.2792774) team, and the NSF XSEDE Extended Collaborative Support Service (ECSS) program.
+For the JupyterHub server, we thank Andrea Zonca (San Diego Supercomputing Center), Jeremy Fischer (Indiana University), the NSF Jetstream (http://dx.doi.org/10.1145/2792745.2792774) team, and the NSF XSEDE Extended Collaborative Support Service (ECSS) program (https://doi.org/10.1007/978-3-319-32243-8_1).
